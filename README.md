@@ -17,3 +17,5 @@ sudo cp alguma/coisa outra/coisa
 
 
 ## Novo commit aqui 
+
+## Commit feito direto no Repositório. 

@@ -4,3 +4,4 @@ Alterando aqui.
 Mais uma Alteração. 
 
 Nova Alteração.
+Aqui teremos um conflito. 
